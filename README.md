@@ -1,2 +1,0 @@
-# hemalp.github.io
-portfolio
